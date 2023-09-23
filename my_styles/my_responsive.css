@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (min-width: 1340px) 
+{
+.logo-name
+{
+	padding-top:10%
+}
+}
+@media screen and (min-width: 992px) {
+body
+{
+	background-position:60% 50% !important;
+}
+.chocho
+{
+	 margin-top:0px !important; 
+}
+.galHt
+{
+	width:80% !important;
+}
+.thumb
+{
+	display:inline-block;
+	padding:3px;
+	height:2rem !important;
+	width:2rem !important;
+	cursor:pointer;
+}
+.thumb_mbo
+{
+	width:80% !important;
+}
+.mynav {
+    display: block;
+  }
+.mycont
+  {
+	  width:80%;
+	}
+.posi
+{
+	position:absolute;
+}
+.shift-l
+{
+	left:20%;
+}
+.myhead
+{
+	display:none !important;
+}
+.mynav1
+{
+	display:none !important;
+}
+}
+@media screen and (max-width: 395px)
+{
+.mynav1 li
+{
+	text-indent:40%;
+}
+.ht6
+{
+	height:400px !important;
+}
+}
